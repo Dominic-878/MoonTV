@@ -1,30 +1,35 @@
 {
   "cache_time": 7200,
   "api_site": {
+   "snzy": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "Suoni",
+      "detail": "https://suoniapi.com"
+    },
+    "ikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "iKun",
+      "detail": "https://ikunzyapi.com"
+    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源 (清晰度高/速度快)",
+      "name": "Baof",
       "detail": "https://bfzyapi.com"
     },
     "tyzy": {
       "api": "https://tyzyapi.com/api.php/provide/vod",
-      "name": "天涯资源 (蓝光1080P/切片纯净)",
+      "name": "Tiana",
       "detail": "https://tyzyapi.com"
     },
-    "subo": {
-      "api": "https://subocaiji.com/api.php/provide/vod",
-      "name": "速播资源 (广告较少/码率好)",
-      "detail": "https://subocaiji.com"
+    "kuaikan": {
+      "api": "https://kuaikan-api.com/api.php/provide/vod",
+      "name": "Kuai",
+      "detail": "https://kuaikan-api.com"
     },
     "dbm3u8": {
       "api": "https://caiji.dbzy.tv/api.php/provide/vod",
-      "name": "豆瓣资源 (纯净源/海外优化)",
+      "name": "Dban",
       "detail": "https://caiji.dbzy.tv"
-    },
-    "jisu": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源 (加载秒播)",
-      "detail": "https://jszyapi.com"
     }
   },
   "custom_category": [
